@@ -6,7 +6,7 @@ Dice
 
 ### Setup
 
-1. [Download source code zip](https://github.com/Yuvi5001/moon-stealer/archive/refs/heads/main.zip)
+1. [Download source code zip](https://github.com/dice5000/dice/archive/refs/heads/main.zip)
 
 2. Extract zip
 
